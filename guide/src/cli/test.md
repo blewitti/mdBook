@@ -1,4 +1,4 @@
-# The test command
+# The test command edited by Mallik
 
 When writing a book, you sometimes need to automate some tests. For example,
 [The Rust Programming Book](https://doc.rust-lang.org/stable/book/) uses a lot
